@@ -1,5 +1,5 @@
 # ML-Medals-Predictor
-Overview
+# Overview
 
 This project analyzes historical Olympic Games data to predict medal counts for countries based on factors like team size and previous medal performance. The analysis uses Python with pandas, seaborn, and scikit-learn for data exploration, visualization, and predictive modeling.
 Dataset
