@@ -1,1 +1,1 @@
-# ML-Medal-Predictor
+# ML-Medals-Predictor
